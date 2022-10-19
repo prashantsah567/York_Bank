@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BankingAppFinal</string>
+    <string name="todo">TODO</string>
+    <string name="prashant_sah">Prashant Sah</string>
+    <string name="transfer">Transfer</string>
+    <string name="amttransfer">amtTransfer</string>
+    <string name="_5000">5000</string>
+    <string name="current_blc">Current Blc</string>
+</resources>
