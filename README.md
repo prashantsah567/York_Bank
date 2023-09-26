@@ -11,7 +11,7 @@
 
 --------------------------For video presentation click the link below---------------------
 
-https://lagcc-cuny.digication.com/prashant001/about_me/published
+[https://lagcc-cuny.digication.com/prashant001/about_me/published](https://lagcc-cuny.digication.com/prashant001/mac-220-android-app-development)
 
 --------------------------Here is a quick demo-----------------------------------
 
